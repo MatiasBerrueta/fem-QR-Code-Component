@@ -1,1 +1,1 @@
-This is my first challenge in Frontdnd Mentor
+This is my first challenge in Frontend Mentor
